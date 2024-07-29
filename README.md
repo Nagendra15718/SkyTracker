@@ -9,5 +9,6 @@ Scalable and Reliable: Designed to handle growing user demand with robust perfor
 User-Friendly Interface: Features an intuitive design for easy access to weather information.
 
 Prerequisites
+
 Java Development Kit (JDK) 8 or higher
 Apache Tomcat or another Servlet container
